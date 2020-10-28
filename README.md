@@ -1,5 +1,7 @@
 # UVA_SEEDS2 project
 
+Two models are present in the repository.
+
 ## UVA-SEEDS2-DiffusionModel
 
 Please refer to the Seeds2DiffusionModelInstructions.pdf for instructions on how to download the code and run the dynamic diffusion model.
