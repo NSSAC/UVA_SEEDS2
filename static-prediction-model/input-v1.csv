@@ -1,0 +1,5 @@
+intercept,acreage,area_type,asrYear,baths,bedrooms,climateRegionPubCold/Very Cold,climateRegionPubHot-Humid,climateRegionPubMixed-Humid,dailyConsumption,education1,education2,education3,education4,education5,fuelheat1,fuelheat2,fuelheat3,fuelheat5,fuelheat7,income,numCarStorage,sqFootage,swimpool,totalVal,typehuq1,typehuq2,typehuq3,householdSize,X1Mile,X2Mile,X3Mile,X4Mile
+1,1,0,1995,2,3,1,0,0,16049.51953,0,1,0,0,0,0,1,0,0,0,99700,3,2340,1,350000,0,1,0,4,0,0,1,0
+1,0,0,1985,3,4,0,1,0,37242.5,0,0,1,0,0,0,0,1,0,0,119600,2,1960,1,180000,0,0,1,6,1,1,1,2
+1,1,0,1975,2,3,0,0,1,35381.19141,0,0,0,1,0,0,0,0,1,0,82000,3,2340,1,220000,0,1,0,4,0,0,0,1
+1,1,0,1985,2,3,1,0,0,17551.0293,0,0,0,0,1,0,0,0,0,1,78100,5,1428,0,180000,0,0,1,2,0,1,0,0

@@ -1,0 +1,35 @@
+Variable,Coefficient
+intercept,-10.5756629
+acreage,-0.122668853
+area_type,-1.791938119
+asrYear,0.001843757
+baths,0
+bedrooms,0.088064361
+climateRegionPubCold/Very Cold,-1.087454804
+climateRegionPubHot-Humid,0.00882537
+climateRegionPubMixed-Humid,0
+dailyConsumption,5.65E-07
+education1,0
+education2,-0.011661006
+education3,0.331914919
+education4,0
+education5,0
+fuelheat1,0
+fuelheat2,-0.528448095
+fuelheat3,0.26933537
+fuelheat5,0
+fuelheat7,0.472403792
+income,0
+numCarStorage,0.330888603
+sqFootage,0
+swimpool,0.169359473
+totalVal,-3.66E-07
+typehuq1,0
+typehuq2,0.001620402
+typehuq3,-0.479000383
+householdSize,0.122923267
+X1Mile,0.398902813
+X2Mile,0
+X3Mile,0.029908643
+X4Mile,0.037558179
+Indicator feature for totalVal,-1.11516187
