@@ -1,6 +1,6 @@
 # UVA_SEEDS2 project
 
-Two models are present in the repository.
+Two models are present in the repository. To run each model please follow instructions documents in the respective model folders.
 
 ## UVA-SEEDS2-DiffusionModel
 
